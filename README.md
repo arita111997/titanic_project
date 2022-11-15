@@ -1,1 +1,1 @@
-# titanic_project
+# Titanic Project
